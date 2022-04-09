@@ -4,7 +4,7 @@
     </head>
     <body>
         <?php include("views/includes/menu.php"); ?>
-        <h1>Lista de Usuários</h1>
+        <h1>Lista de Usuários Cadastrados</h1>
         <a href="usuario.php">Inserir</a>
         <table>
             <tr>
